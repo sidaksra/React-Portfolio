@@ -31,8 +31,8 @@ const projectsData = [
     name: 'Portfolio Website',
     imageUrl: 'profile4.jpg',
     desc:'Explore my portfolio, a testament to my design prowess and experience in the field. Crafted using, it showcases my journey as a dedicated web developer. React, CSS, and JavaScript',
-    liveLink: '#',
-    sourceCodeLink: '#',
+    liveLink: 'https://sidak-portfolio.vercel.app/',
+    sourceCodeLink: 'https://github.com/sidaksra/React-Portfolio.git',
   },
   {
     id: 5,
