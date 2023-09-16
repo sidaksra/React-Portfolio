@@ -49,6 +49,14 @@ const projectsData = [
     liveLink: 'https://youtu.be/BIQF2biC-sk',
     sourceCodeLink: 'https://github.com/sidaksra/Welcome-Desk/tree/f1b14767759b45d1c5e79700d43a45fb978a84ae/FinalProject',
   },
+  {
+    id: 7,
+    name: 'RPS Game',
+    imageUrl: 'profile7.jpg',
+    desc:'Experience the classic game of Rock, Paper, Scissors brought to life in a dynamic web-based adventure created with PHP, CSS, HTML, and SQL. Test your wits and luck in this digital twist on a timeless favorite.',
+    liveLink: 'https://loki.trentu.ca/~sidaksinghsra/RPS_Game/',
+    sourceCodeLink: 'https://github.com/sidaksra/PHP-RPS-Game.git',
+  },
 
 ];
 
