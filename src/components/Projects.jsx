@@ -28,11 +28,11 @@ const projectsData = [
   },
   {
     id: 4,
-    name: 'Portfolio Website',
-    imageUrl: 'profile4.jpg',
-    desc:'Explore my portfolio, a testament to my design prowess and experience in the field. Crafted using, it showcases my journey as a dedicated web developer. React, CSS, and JavaScript',
-    liveLink: 'https://sidak-portfolio.vercel.app/',
-    sourceCodeLink: 'https://github.com/sidaksra/React-Portfolio.git',
+    name: 'Weather App',
+    imageUrl: 'weather-app.jpg',
+    desc:'A weather app that provides real-time weather information and map for a specified location. HTML, CSS, JavaScript (with Leaflet for maps)',
+    liveLink: 'https://sidaksra.github.io/WeatherApp/',
+    sourceCodeLink: 'https://github.com/sidaksra/WeatherApp.git',
   },
   {
     id: 5,
@@ -56,6 +56,14 @@ const projectsData = [
     desc:'Experience the classic game of Rock, Paper, Scissors brought to life in a dynamic web-based adventure created with PHP, CSS, HTML, and SQL. Test your wits and luck in this digital twist on a timeless favorite.',
     liveLink: 'https://loki.trentu.ca/~sidaksinghsra/RPS_Game/',
     sourceCodeLink: 'https://github.com/sidaksra/PHP-RPS-Game.git',
+  },
+  {
+    id: 8,
+    name: 'Portfolio Website',
+    imageUrl: 'portfolio-website.jpg',
+    desc:'Explore my portfolio, a testament to my design prowess and experience in the field. Crafted using, it showcases my journey as a dedicated web developer. React, CSS, and JavaScript',
+    liveLink: '#',
+    sourceCodeLink: '#',
   },
 
 ];
